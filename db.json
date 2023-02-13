@@ -1,0 +1,30 @@
+{
+    "login": [
+      {
+        "userName": "123",
+        "password": "Karthi"
+      }
+    ],
+    "patient": [
+      {
+        "fullName": "User1",
+        "age": "40",
+        "gender": "male",
+        "mobile": "123"
+      }
+    ],
+    "doctor": [
+      {
+        "fullName": "doctor1",
+        "specialty": "ortho"
+      }
+    ],
+    "slot": ["10-12am", "5-7pm"],
+    "registerToken": [
+      {
+        "doctorName": "doctor1",
+        "patientName": "patient1"
+      }
+    ]
+  }
+  
